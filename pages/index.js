@@ -341,7 +341,7 @@ export default function Home() {
         ) : (
           <div>
             <p className="text-2xl text-blue-600 mb-6">
-              You can switch your wallet to Rinkeby Testnet Network to test this
+              You can switch your wallet to Sepolia Testnet Network to test this
               application.
             </p>
             <button
